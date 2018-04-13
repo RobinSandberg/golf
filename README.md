@@ -1,2 +1,2 @@
 # golf
-tiny text golf game
+Tiny text golf game
